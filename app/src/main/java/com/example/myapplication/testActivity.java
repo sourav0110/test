@@ -11,6 +11,6 @@ public class testActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_test);
-        Toast.makeText(testActivity.this,"test",Toast.LENGTH_LONG).show();
+        Toast.makeText(testActivity.this,"test 3",Toast.LENGTH_LONG).show();
     }
 }
